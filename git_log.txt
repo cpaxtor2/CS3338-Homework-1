@@ -1,3 +1,30 @@
+commit 0c482383846ca45f7d5f02caa5171405cda4b7e7
+Author: Chris Paxtor <cpaxtor2@calstatela.edu>
+Date:   Thu Sep 17 22:35:37 2026 -0700
+
+    Add README
+
+commit c26ed82ad9fc80d914bdb8c3f929f5898516deb2
+Merge: 9a32263 84b8b26
+Author: Chris Paxtor <cpaxtor2@calstatela.edu>
+Date:   Thu Sep 17 22:31:59 2026 -0700
+
+    Merge branch 'main' of https://github.com/cpaxtor2/CS3338-Homework-1
+
+commit 9a32263043fbadbcc3095ccf14e4949948850056
+Author: Chris Paxtor <cpaxtor2@calstatela.edu>
+Date:   Thu Sep 17 22:28:22 2026 -0700
+
+    Add git log and repository location
+
+commit 84b8b26d29b92b077de4d96d583fe472cfa8169e
+Author: arehmank3 <arehman3@calstatela.edu>
+Date:   Thu Sep 17 22:19:35 2026 -0700
+
+    Update index.html
+    
+    Update groupmate information
+
 commit 31e57e5b47a9f9f2fb23397b99da7e87d2f4cddb
 Merge: f37cdce 4dd031a
 Author: Chris Paxtor <cpaxtor2@calstatela.edu>
